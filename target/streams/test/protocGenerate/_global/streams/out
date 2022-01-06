@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating cache (input changed)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 14 protobuf files to /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/scala-2.13/akka-grpc/test,/home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/scala-2.13/akkaserverless-unmanaged-test,/home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/scala-2.13/src_managed/test[0m
+[0m[[0m[0mdebug[0m] [0m[0mprotoc options:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompiling schema /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/protobuf_external_src/google/api/httpbody.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompiling schema /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/protobuf_external_src/google/api/http.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompiling schema /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/protobuf_external_src/akkaserverless/annotations.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompiling schema /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/protobuf_external_src/google/api/client.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompiling schema /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/protobuf_external_src/google/api/resource.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompiling schema /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/protobuf_external_src/google/api/field_behavior.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompiling schema /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/protobuf_external_src/akkaserverless/eventing.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompiling schema /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/protobuf_external_src/akkaserverless/legacy_entity_key.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompiling schema /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/protobuf_external_src/akkaserverless/views.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompiling schema /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/src/main/protobuf/com/calncalncal/counter_api.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompiling schema /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/protobuf_external_src/akkaserverless/component.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompiling schema /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/protobuf_external_src/google/api/annotations.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompiling schema /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/src/main/protobuf/com/calncalncal/domain/counter_domain.proto[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompiling schema /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akka-serverless/target/protobuf_external_src/akkaserverless/jwt.proto[0m

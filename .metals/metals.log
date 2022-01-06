@@ -1,0 +1,21 @@
+[0m2022.01.05 16:23:53 INFO  Started: Metals version 0.10.9 in workspace '/home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless' for client Visual Studio Code 1.63.2.[0m
+[0m2022.01.05 16:23:55 INFO  time: initialize in 1.68s[0m
+[0m2022.01.05 16:23:55 WARN  Build server is not auto-connectable.[0m
+[0m2022.01.05 16:23:56 WARN  no build target for: /home/eduardo/src/calncal/akkaserverless/que-service-akkaserverless/que-service-akkaserverless/build.sbt[0m
+[0m2022.01.05 16:23:59 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2022.01.05 16:24:00 INFO  time: code lens generation in 4.17s[0m
+[0m2022.01.05 16:24:00 INFO  time: code lens generation in 4.17s[0m
+[0m2022.01.05 16:33:26 INFO  shutting down Metals[0m
+[0m2022.01.05 16:33:26 ERROR Unexpected error initializing server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+[0m
